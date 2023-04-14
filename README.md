@@ -10,6 +10,11 @@
   <img align="center" alt="diegovalemoreno-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
   <img align="center" alt="diegovalemoreno-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="diegovalemoreno-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+ <img align="center" alt="diegovalemoreno-PostgresSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+ <img align="center" alt="diegovalemoreno-Intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-plain.svg">
+ <img align="center" alt="diegovalemoreno-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+ <img align="center" alt="diegovalemoreno-Jenkins" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"> 
+ <img align="center" alt="diegovalemoreno-Jenkins" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"> 
 </div>
 
 ##
